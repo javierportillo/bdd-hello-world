@@ -1,6 +1,6 @@
 const Greeter = {
-    sayHello: function () {
-        return 'Hello World';
+    sayHello: function (name) {
+        return 'Hello ' + (name || 'World');
     }
 };
 
