@@ -1,0 +1,22 @@
+{
+  "name": "bdd-hello-world",
+  "version": "0.0.0",
+  "description": "My first BDD application using jasmine",
+  "main": "src/hello_world/Greeter.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierportillo/bdd-hello-world.git"
+  },
+  "author": "Javier Portillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javierportillo/bdd-hello-world/issues"
+  },
+  "homepage": "https://github.com/javierportillo/bdd-hello-world#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
